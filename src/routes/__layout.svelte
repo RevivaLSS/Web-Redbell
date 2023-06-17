@@ -24,6 +24,9 @@
 	button.primary {
 		@apply bg-primary text-white hover:bg-blue-700;
 	}
+	button.product {
+		@apply bg-primary text-white hover:bg-yellow-700;
+	}
 	button.outline {
 		@apply border-white text-white border-[1px] hover:bg-white hover:text-black;
 	}
